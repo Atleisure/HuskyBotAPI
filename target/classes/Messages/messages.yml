@@ -1,0 +1,13 @@
+help:
+  - '&9==========&bHuskyBotAPI&9=========='
+  - '&b/hbapi help &c查看帮助'
+  - '&b/hbapi run &c启动机器人'
+  - '&b/hbapi close &c关闭机器人(关闭后不能再次启动)'
+  - '&b/hbapi reload &c重载配置'
+reload: "&bHuskyBotAPI已重载！"
+run: "&c机器人正在启动！"
+notHasPermission: "&c你没有权限！"
+close: "&c机器人已关闭！"
+Error:
+  close: "&c机器人未启动！"
+  run: "&c机器人正在运行！"

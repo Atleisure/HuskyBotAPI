@@ -1,0 +1,11 @@
+org\siberianhusy\huskybotapi\Data.class
+org\siberianhusy\huskybotapi\HuskyBotAPI.class
+org\siberianhusy\huskybotapi\plugins\VegetableDog.class
+org\siberianhusy\huskybotapi\utils\RegisterEvent$1.class
+org\siberianhusy\huskybotapi\utils\SendMessage.class
+org\siberianhusy\huskybotapi\commands\Commands.class
+org\siberianhusy\huskybotapi\utils\LoadBot.class
+org\siberianhusy\huskybotapi\utils\ReloadPlugin.class
+org\siberianhusy\huskybotapi\utils\Replace.class
+org\siberianhusy\huskybotapi\utils\Get.class
+org\siberianhusy\huskybotapi\utils\RegisterEvent.class

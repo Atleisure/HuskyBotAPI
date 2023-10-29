@@ -1,0 +1,3 @@
+#机器人关闭后不能再次启动，这个是skd的缘故
+appId: "123456"
+token: "xxxxxxxxxxxxxxx"

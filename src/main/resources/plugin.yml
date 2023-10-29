@@ -1,0 +1,7 @@
+name: HuskyBotAPI
+version: '${project.version}'
+main: org.siberianhusy.huskybotapi.HuskyBotAPI
+api-version: '1.19'
+commands:
+  HuskyBotAPI:
+    aliases: hbapi
